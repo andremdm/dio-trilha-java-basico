@@ -22,9 +22,8 @@ public class ContaTerminal {
            + saldo + " Reais já está disponível para saque!");
             
            
-           
+           scanner.close();
           
-
-        
+      
     }
 }
